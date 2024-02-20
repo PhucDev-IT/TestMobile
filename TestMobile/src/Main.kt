@@ -1,6 +1,3 @@
-# Code
-> Bài làm sử dụng ngôn ngữ Kotlin
-```kotlin
 
 val telex: MutableList<String> = mutableListOf("aw", "aa", "dd", "ee", "oo", "ow", "w")
 
@@ -37,16 +34,3 @@ fun countLetters(text: String): Set<String> {
     }
     return textVn
 }
-```
-
-# Kết quả demo
-
-![example](imagedemo/img1.png)
-
----
-
-![example](imagedemo/img2.png)
-
----
-
-![example](imagedemo/img3.png)
